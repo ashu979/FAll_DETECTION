@@ -19,3 +19,8 @@ Our project presents a machine learning framework consisting of data collection,
 /** Results obtained **/
 
 ![image](https://github.com/ashu979/FAll_DETECTION/assets/86342277/67fabdaf-ce69-4813-afc2-88c6913001a1)
+
+
+--------------------------------------------------------------
+
+![image](https://github.com/ashu979/FAll_DETECTION/assets/86342277/9b2ca226-0fdc-4549-ae33-0d1bbb44a884)
